@@ -1,0 +1,19 @@
+* {
+  text-align: center;
+}
+
+p {
+  font-size: 30px;
+  background-color: darkgray;
+}
+
+.baslangic {
+  background-color: lightpink;
+}
+
+h1 {
+  color: blueviolet;
+}
+h2 {
+  background-color: lightcoral;
+}
