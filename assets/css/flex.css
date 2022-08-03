@@ -1,0 +1,32 @@
+.container1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  gap:20px;
+
+  
+ 
+}
+
+.box {
+  height: 20px;
+  width: 100px;
+  background-color: gray;
+}
+
+.box1{
+
+ background-color: red;
+}
+.box2{
+
+ background-color: blue;
+}
+.box3{
+
+ background-color: yellow;
+}
+.box4{
+ background-color: green;
+}
